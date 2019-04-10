@@ -1,9 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+
+ /*
+* To change this template, choose Tools | Templates
+* and open the template in the editor.
  */
 package prjava01;
+
 /**
  *
  * @author TuDePa1718daw2vib (a on XYZ és el teu nom d'usuari Github)
